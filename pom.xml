@@ -10,7 +10,8 @@
   <name>coder</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>alg</module>
+      <module>alg</module>
+      <module>rpc</module>
   </modules>
 
   <properties>
